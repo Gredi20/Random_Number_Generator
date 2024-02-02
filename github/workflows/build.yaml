@@ -20,5 +20,5 @@ jobs:
       with:       
        username: ${{ secrets.DOCKER_HUB_USERNAME }} 
        password:  ${{ secrets.DOCKER_HUB_PASSWORD }}
-       repository: geri3313/detyre-kursi      
+       repository: gredi20/Random_Number_Generator      
        tags: ${{github.run_number}}
