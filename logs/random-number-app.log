@@ -1,0 +1,1 @@
+2024-01-20 10:29:31.076  INFO 15906 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
